@@ -1,4 +1,4 @@
-## Yo! Eu sou o Yuri
+## Yo! Eu sou o Yuri😁
 
  <div>
   <a href="https://github.com/yuri-oliveira-dev">
